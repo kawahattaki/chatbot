@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import os
 import time
@@ -137,7 +136,7 @@ with col2:
                 st.error(f"❌ Erreur : {str(e)}")
     elif question:
         st.warning("⚠️ Veuillez d'abord indexer les documents.")
-=======
+
 import streamlit as st
 import os
 import time
@@ -276,4 +275,4 @@ with col2:
                 st.error(f"❌ Erreur : {str(e)}")
     elif question:
         st.warning("⚠️ Veuillez d'abord indexer les documents.")
->>>>>>> 9836fe267180f9d7906b047e8b7f2d6ae1854a9a
+ 
